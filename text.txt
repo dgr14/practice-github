@@ -1,0 +1,5 @@
+This is a text file to practice with.
+
+What's you're favorite kind of cuisine?
+
+I prefer Italian
